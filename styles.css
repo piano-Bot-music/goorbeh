@@ -1,0 +1,90 @@
+body {
+    margin: 0;
+}
+
+.header {
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    height: 170px;
+}
+.header img {
+    width: 150px;
+    height: 150px;
+    float: left;
+}
+.header h2 {
+    color: white;
+  float: left;
+  margin-top: 32px;
+  margin-left: 10px;
+}
+
+.footer {
+width: 100%;
+position: absolute;
+text-align: center;
+color: yellow;
+background-color: black;
+bottom: 0;
+}
+
+.scroll {
+    background-color: darkblue;
+    color: white;
+}
+
+.content {
+    margin-top: 20px;
+    margin-left: 50px;
+    width: 70%;
+    box-shadow: 0 1px 1em rgba(0,0,0,.2);
+    color: black;
+    width: 90%;
+    height: 300px;
+}
+
+.content h2 {
+    border-bottom: 3px solid black;
+    font-size: 30px;
+    margin-left: 10px;
+}
+.content-text h4 {
+    margin-left: 10px;
+    color: yellow;
+   float: left;
+   font-size: 30px;
+}
+
+.dokmeh {
+    background-color: #7A716E;
+    height: 45px;
+}
+
+.dokmeh ul {
+    margin: 0;
+}
+
+.dokmeh li {
+    display: inline-block;
+    margin-top: 10px;
+    padding-right: 30px;
+}
+
+.dokmeh li a{
+    background-color: yellow;
+    text-decoration: none;
+    margin-bottom: 5px;
+    color: red;
+    padding: 5px;
+    border-radius: 4px;
+}
+
+dokmeh ul a:hover{
+    background-color: #071f45;
+
+}
+
+dokmeh li:active {
+    position:relative;
+    top:3px;
+}
