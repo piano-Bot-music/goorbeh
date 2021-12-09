@@ -41,6 +41,8 @@ bottom: 0;
     color: black;
     width: 90%;
     height: 300px;
+background-color: #f2ee0a;
+
 }
 
 .content h2 {
@@ -79,12 +81,12 @@ bottom: 0;
     border-radius: 4px;
 }
 
-dokmeh ul a:hover{
+.dokmeh ul a:hover{
     background-color: #071f45;
 
 }
 
-dokmeh li:active {
+.dokmeh li:active {
     position:relative;
     top:3px;
 }
