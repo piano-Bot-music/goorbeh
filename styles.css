@@ -70,13 +70,8 @@ margin: 0;
 .dokmeh a {
     display: inline-block;
     margin-top: 10px;
-    padding-right: 30px;
     margin-left: 10px;
-}
-
-.dokmeh  a{
     background-color: yellow;
-    text-decoration: none;
     margin-bottom: 5px;
     color: red;
     padding: 5px;
