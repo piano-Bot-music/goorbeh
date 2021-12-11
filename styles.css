@@ -54,7 +54,7 @@ margin: 0;
     color: black;
    float: left;
    font-size: 30px;
-  margin-top: 0;
+   margin-top: 0;
 }
 
 .dokmeh {
@@ -87,4 +87,16 @@ margin: 0;
 .dokmeh a:active {
     position:relative;
     top:3px;
+}
+
+.content-text img {
+    margin-left: 20px;
+}
+
+.content-text {
+    margin-top: 40px;
+}
+
+.content-text img {
+    margin-bottom: 80px;
 }
